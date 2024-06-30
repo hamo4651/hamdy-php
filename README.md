@@ -3,6 +3,7 @@
 # remove local > git branch -d test
 # remove remote > git push origin :dev
 # remove remote > git push origin :test
+# git checkout -- .
 # git tag 
 # remove tag local > git tag -d v1.7
 # remove tag remote > git push origin --delete v1.7
