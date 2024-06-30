@@ -8,5 +8,5 @@
 # remove tag remote > git push origin --delete v1.7
 
 <p align="center">
-  <img src="22.jpeg" width="350">
+  <img src="https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_400,c_scale,q_auto/cnnarabic/2019/06/28/images/130170.avif" width="350">
 </p>
